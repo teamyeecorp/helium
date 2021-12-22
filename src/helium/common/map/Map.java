@@ -1,5 +1,6 @@
 package helium.common.map;
 
+/// i feel it in my toes
 public class Map {
 	
 	protected EnumBlock[] blocks;
